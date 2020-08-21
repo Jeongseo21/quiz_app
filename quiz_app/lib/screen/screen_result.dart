@@ -15,7 +15,7 @@ class ResultScreen extends StatelessWidget {
 
     int score = 0;
     for (int i = 0; i < quizs.length; i++) {
-      if (quizs[i].answer == answers[i]) {
+      if (quizs[i].answer-1 == answers[i]) {
         score += 1;
       }
     }

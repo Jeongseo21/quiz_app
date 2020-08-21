@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b1794dd2-889c-4514-9278-726309e4452c" name="Default Changelist" comment="" />
+    <list default="true" id="b1794dd2-889c-4514-9278-726309e4452c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/quiz_app/lib/model/model_quiz.dart" beforeDir="false" afterPath="$PROJECT_DIR$/quiz_app/lib/model/model_quiz.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quiz_app/lib/screen/screen_home.dart" beforeDir="false" afterPath="$PROJECT_DIR$/quiz_app/lib/screen/screen_home.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quiz_app/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/quiz_app/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quiz_app/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/quiz_app/pubspec.yaml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1gJHPdydYmiMg8IFdkNiVqgnp6P" />
   <component name="ProjectViewState">
@@ -54,10 +62,10 @@
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
     <state x="462" y="261" key="EnvironmentVariablesDialog/62.0.1858.1080@62.0.1858.1080" timestamp="1597830930660" />
-    <state x="581" y="271" key="FileChooserDialogImpl" timestamp="1597833620128">
+    <state x="581" y="271" key="FileChooserDialogImpl" timestamp="1597979633858">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
-    <state x="581" y="271" key="FileChooserDialogImpl/62.0.1858.1080@62.0.1858.1080" timestamp="1597833620128" />
+    <state x="581" y="271" key="FileChooserDialogImpl/62.0.1858.1080@62.0.1858.1080" timestamp="1597979633858" />
     <state width="1340" height="266" key="GridCell.Tab.0.bottom" timestamp="1597833105275">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
